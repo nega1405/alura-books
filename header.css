@@ -12,11 +12,14 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: relative;
 }
+
 .container {
     display: flex;
     align-items: center;
 }
+
 .container__imagem {
     padding: 1em;
 }
